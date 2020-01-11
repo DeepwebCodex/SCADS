@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Date: Sun, 02 Jun 2019 17:26:40 GMT
+Server: Apache/2.2.29 (Unix) mod_ssl/2.2.29 OpenSSL/1.0.1p PHP/5.5.31
+X-Powered-By: PHP/5.5.31
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=ggo9u0a0e6ksck8qfoqt0m2re1; path=/
+Connection: close
+Content-Type: text/html
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
